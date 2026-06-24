@@ -36,6 +36,21 @@ Run:
 
 ![Tic Tac Toe](screenshots/game.png)
 
+## 📚 Skills Learned
+
+- C++ Programming
+- Arrays
+- Conditional Statements
+- Game Logic Design
+- Git & GitHub
+
+## 🔮 Future Improvements
+
+- Single-player mode
+- AI opponent
+- Better game interface
+- Score tracking system
+
 ## 👩‍💻 Author
 
 Ekshitha
