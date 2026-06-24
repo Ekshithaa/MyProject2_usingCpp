@@ -32,6 +32,10 @@ Run:
 ./tictactoe_game
 ```
 
+## 📸 Screenshot
+
+![Tic Tac Toe](screenshots/game.png)
+
 ## 👩‍💻 Author
 
 Ekshitha
