@@ -14,6 +14,7 @@ A simple Tic Tac Toe game developed using C++ programming language. The game all
 ## 🛠 Technologies Used
 
 - C++
+- GCC/G++ Compiler
 - Git
 - GitHub
 
